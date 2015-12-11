@@ -1,0 +1,23 @@
+{
+  "name": "numberToCLPFormater",
+  "version": "0.0.1",
+  "homepage": "https://github.com/juanbrujo/Sluggin.js",
+  "authors": [
+    "Jorge Epuñan <juanbrujo@gmail.com>"
+  ],
+  "description": "Converts string into websafe-friendly-clean piece of text",
+  "main": "numberToCLPFormater.js",
+  "keywords": [
+    "javascript",
+    "currency",
+    "format",
+    "number",
+    "Chilean Pesos"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
