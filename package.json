@@ -1,11 +1,11 @@
 {
-  "name": "numberToCLPFormater",
+  "name": "numbertoclpformater",
   "version": "0.0.1",
-  "homepage": "https://github.com/juanbrujo/Sluggin.js",
+  "homepage": "https://github.com/juanbrujo/numberToCLPFormater",
   "authors": [
     "Jorge Epuñan <juanbrujo@gmail.com>"
   ],
-  "description": "Converts string into websafe-friendly-clean piece of text",
+  "description": "transforms a number to currency used in Chile (Chilean Pesos), adds '$'",
   "main": "numberToCLPFormater.js",
   "keywords": [
     "javascript",
