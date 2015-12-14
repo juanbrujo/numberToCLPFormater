@@ -29,6 +29,6 @@ numberToCLPFormater(1001, false, true);
 ##### Negative number
 
 ```
-number.numberToCLPFormater(-89163729);
+numberToCLPFormater(-89163729);
 // $-89.163.729
 ```
