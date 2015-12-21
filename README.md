@@ -3,6 +3,8 @@ transforms a number to currency used in Chile (Chilean Pesos).
 
 [![npm version](https://badge.fury.io/js/numbertoclpformater.svg)](https://badge.fury.io/js/numbertoclpformater)
 
+![circleci status](https://circleci.com/gh/juanbrujo/numberToCLPFormater.svg?style=shield&circle-token=:circle-token)
+
 ### USE: 
 
 ```
