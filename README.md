@@ -6,6 +6,12 @@ transforms a number to currency used in Chile (Chilean Pesos).
 
 **[NPM package](https://www.npmjs.com/package/numbertoclpformater)**
 
+### How to install
+
+``````
+npm install numbertoclpformater --save
+`````
+
 ### USE: 
 
 ```
