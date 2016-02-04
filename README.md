@@ -15,29 +15,29 @@ npm install numbertoclpformater --save
 ### USE: 
 
 ```
-var number = require('./numberToCLPFormater.js');
+var number = require('numbertoclpformater').numberToCLPFormater;
 
-numberToCLPFormater(876142) 
+number(876142) 
 // $876.142
 ```
 
 ##### Change currency symbol:
 
 ```
-numberToCLPFormater(981426719, 'CLP$');
+number(981426719, 'CLP$');
 // CLP$981.426.719
 ```
 
 ##### Display cents, remove currency symbol
 
 ```
-numberToCLPFormater(1001, false, true);
+number(1001, false, true);
 // 1.001,00
 ```
 
 ##### Negative number
 
 ```
-numberToCLPFormater(-89163729);
+number(-89163729);
 // $-89.163.729
 ```
