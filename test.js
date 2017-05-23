@@ -1,4 +1,4 @@
-var number = require('./numberToCLPFormater.js').numberToCLPFormater;
+var number = require('./index.js').numberToCLPFormater;
 
 // Test 1: default
 console.log('\n# Test 1: 876142 -> $876.142');
