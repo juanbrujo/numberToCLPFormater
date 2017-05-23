@@ -9,7 +9,7 @@ transforms a number to currency used in Chile (Chilean Pesos).
 ### USE: 
 
 ```
-var number = require('./numberToCLPFormater.js').numberToCLPFormater;
+var number = require('numbertoclpformater').numberToCLPFormater;
 
 number(876142) 
 // $876.142
