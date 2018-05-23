@@ -8,8 +8,8 @@ transforms a number to currency used in Chile (Chilean Pesos).
 
 ### USE: 
 
-```
-var number = require('numbertoclpformater').numberToCLPFormater;
+```javascript
+var number = require('numbertoclpformater').numberToCLPFormater
 
 number(876142) 
 // $876.142
@@ -17,21 +17,21 @@ number(876142)
 
 ##### Change currency symbol:
 
-```
-number(981426719, 'CLP$');
+```javascript
+number(981426719, 'CLP$')
 // CLP$981.426.719
 ```
 
 ##### Display cents, remove currency symbol
 
-```
-number(1001, false, true);
+```javascript
+number(1001, false, true)
 // 1.001,00
 ```
 
 ##### Negative number
 
-```
-number(-89163729);
+```javascript
+number(-89163729)
 // $-89.163.729
 ```
